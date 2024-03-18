@@ -5,7 +5,9 @@
 	"dockerComposeFile": "compose.yaml",
 	"service": "playground-typescript",
 	"workspaceFolder": "/workspace",
-	"remoteUser": "vscode",
+	"remoteUser": "node",
+	
+	// "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
