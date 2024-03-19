@@ -4,3 +4,4 @@
 .gitignore
 .vscode
 compose.yaml
+node_modules
