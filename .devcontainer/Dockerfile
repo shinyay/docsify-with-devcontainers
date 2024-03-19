@@ -2,7 +2,6 @@
 # https://hub.docker.com/_/microsoft-devcontainers-typescript-node
 FROM mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye
 
-RUN npm install --save ts-node
-
 USER node
 WORKDIR /workspace
+RUN npm install ts-node
