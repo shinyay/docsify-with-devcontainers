@@ -1,6 +1,6 @@
 # Name
 
-Overview
+This project configures for TypeScript development environment on Dev Containers.
 
 ## Description
 
