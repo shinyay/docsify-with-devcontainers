@@ -1,4 +1,4 @@
-# Name
+# Hello Dev Containers with TypeScript
 
 This project configures for TypeScript development environment on Dev Containers.
 
