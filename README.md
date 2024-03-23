@@ -4,6 +4,12 @@ This project configures for TypeScript development environment on Dev Containers
 
 ## Description
 
+This **Dev Containers** consists of the following 3 elements:
+
+- devcontainer.json
+- compose.yaml
+- Dockerfile
+
 ## Demo
 
 ## Features
