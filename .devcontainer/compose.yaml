@@ -1,7 +1,7 @@
 services:
   playground-typescript:
-    container_name: 'playground-typescript'
-    hostname: 'typescript'
+    container_name: 'playground-docsify'
+    hostname: 'docsify'
     build: 
       context: .
       dockerfile: Dockerfile
