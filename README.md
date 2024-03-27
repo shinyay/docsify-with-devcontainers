@@ -32,6 +32,12 @@ This **Dev Containers** consists of the following 3 elements:
 
 ## Installation
 
+1. Open this configuration on your **Visual Studio Code**.
+2. `Ctrl` + `Shift` + `p`
+3. `> Dev Containers: Rebuild Container`
+4. `docsify init`
+5. Now you can edit your Markdown for Docsify.
+
 ## References
 
 ## Licence
