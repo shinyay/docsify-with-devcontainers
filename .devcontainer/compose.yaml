@@ -1,6 +1,6 @@
 services:
-  playground-typescript:
-    container_name: 'playground-docsify'
+  playground-docsify:
+    container_name: 'docsify'
     hostname: 'docsify'
     build: 
       context: .
