@@ -2,7 +2,8 @@
 
 [![Docsify](https://github.com/docsifyjs/docsify/raw/develop/docs/_media/icon.svg)](https://docsify.js.org/#/)
 
-Docsify turns one or more Markdown files into a Website, with no build process required.
+**Docsify** turns one or more Markdown files into a Website, with no build process required.
+The configuration provided in this repository uses **Dev Containers** to allow Docsify to be used inside a container.
 
 ## Description
 
