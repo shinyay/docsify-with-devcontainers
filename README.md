@@ -1,4 +1,4 @@
-# Hello Dev Containers with TypeScript
+# Docsify with Dev Containers
 
 This project configures for TypeScript development environment on Dev Containers.
 
