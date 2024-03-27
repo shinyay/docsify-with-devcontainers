@@ -50,7 +50,7 @@ This **Dev Containers** consists of the following 3 elements:
 3. Select **Pages**
 4. Select your Branch, which may be `main`
 5. Select folder `/docs`
-6. Now your GitHub Pages are deployes as `https://<YOUR_ACCOUNT>.github.io/<YOUR_REPOSITORY_NAME>`
+6. Now your GitHub Pages are deployes as `https://<YOUR_ACCOUNT>.github.io/<YOUR_REPOSITORY_NAME>`, for example [https://shinyay.github.io/docsify-with-devcontainers/](https://shinyay.github.io/docsify-with-devcontainers/)
 
 ## References
 
