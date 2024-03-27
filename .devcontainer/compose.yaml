@@ -6,9 +6,9 @@ services:
       context: .
       dockerfile: Dockerfile
     restart: always
-    working_dir: '/workspace'
+    working_dir: '/docs'
     tty: true
     volumes:
       - type: bind
-        source: ../workspace
-        target: /workspace
+        source: ../docs
+        target: /docs
