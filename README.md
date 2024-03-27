@@ -28,6 +28,9 @@ This **Dev Containers** consists of the following 3 elements:
 
 ## Requirement
 
+- Docker
+- Visual Studio Code
+
 ## Usage
 
 ## Installation
@@ -50,6 +53,8 @@ This **Dev Containers** consists of the following 3 elements:
 6. Now your GitHub Pages are deployes as `https://<YOUR_ACCOUNT>.github.io/<YOUR_REPOSITORY_NAME>`
 
 ## References
+
+- [Docsify Documentation](https://docsify.js.org/#/?id=docsify)
 
 ## Licence
 
