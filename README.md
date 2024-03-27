@@ -1,6 +1,8 @@
 # Docsify with Dev Containers
 
-This project configures for TypeScript development environment on Dev Containers.
+![Docsify](https://github.com/docsifyjs/docsify/raw/develop/docs/_media/icon.svg)
+
+Docsify turns one or more Markdown files into a Website, with no build process required.
 
 ## Description
 
