@@ -4,7 +4,7 @@
 	"name": "Playground - docsify",
 	"dockerComposeFile": "compose.yaml",
 	"service": "playground-docsify",
-	"workspaceFolder": "/workspace",
+	"workspaceFolder": "/docs",
 	"remoteUser": "node",
 	
 	"customizations": {
