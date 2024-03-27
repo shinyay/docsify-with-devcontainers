@@ -32,11 +32,22 @@ This **Dev Containers** consists of the following 3 elements:
 
 ## Installation
 
+### Docsify on Dev Containers
+
 1. Open this configuration on your **Visual Studio Code**.
 2. `Ctrl` + `Shift` + `p`
 3. `> Dev Containers: Rebuild Container`
 4. `docsify init`
 5. Now you can edit your Markdown for Docsify.
+
+### GitHub Pages
+
+1. Open your GitHub Repository
+2. Select **Settings**
+3. Select **Pages**
+4. Select your Branch, which may be `main`
+5. Select folder `/docs`
+6. Now your GitHub Pages are deployes as `https://<YOUR_ACCOUNT>.github.io/<YOUR_REPOSITORY_NAME>`
 
 ## References
 
